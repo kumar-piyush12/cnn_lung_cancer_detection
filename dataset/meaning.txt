@@ -1,0 +1,3 @@
+1. Lung benign tissue: Non Cancerous tumour of the lung => NON-CANCEROUS
+2. Lung adenocarcinoma: Primary Lung Cancer (Non small cell lung cancer) => CANCEROUS
+3. Lung squamous cell carcinoma: Non Small cell lung cancer => CANCEROUS
